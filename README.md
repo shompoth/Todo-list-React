@@ -15,7 +15,7 @@ Fonctionnalités :
 
 Cloner le repo
 ```sh
-git clone https://github.com/shompoth/Blog-React.git
+git clone https://github.com/shompoth/Todo-list-React.git
 ```
 
 Pour pouvoir installer ce projet sur votre ordinateur, taper les commandes suivantes :
