@@ -1,6 +1,24 @@
+# Todo List
+
+Ce projet est une todo-list permettant de gérer les taches à réaliser.
+
+Fonctionnalités :
+- Ajouter, tchequer ou supprimer une tache
+- Lors de votre prochaine visite, les taches et leurs états (tchequer ou non) sont sauvegardées et vous seront affichés
+
+## Crée avec
+
+* React.js
+* Firebase
+
 ## Etapes d'installation
 
-Pour pouvoir installer ce projet sur votre ordinateur, commencez par taper les commandes suivantes :
+Cloner le repo
+```sh
+git clone https://github.com/shompoth/Blog-React.git
+```
+
+Pour pouvoir installer ce projet sur votre ordinateur, taper les commandes suivantes :
 
 ### `npm install`
 
