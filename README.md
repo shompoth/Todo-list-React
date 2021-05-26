@@ -1,5 +1,7 @@
 # Todo List
 
+![todo](https://github.com/shompoth/Todo-list-React/blob/main/src/assets/img/screenshot-todo.png)
+
 Ce projet est une todo-list permettant de gérer les taches à réaliser.
 
 Fonctionnalités :
