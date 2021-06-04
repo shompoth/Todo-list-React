@@ -6,7 +6,7 @@ Ce projet est une todo-list permettant de gérer les tâches à réaliser.
 
 Fonctionnalités :
 - Ajouter, tchequer ou supprimer une tâche
-- Lors de votre prochaine visite, les tâches et leurs états (tchequer ou non) sont sauvegardées et vous seront affichés
+- Lors de votre prochaine visite, les tâches et leurs états (tchequer ou non) sont sauvegardés et vous seront affichés
 
 ## Crée avec
 
